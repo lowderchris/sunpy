@@ -290,7 +290,7 @@
     ],
     [
       "NFI",
-      "None"
+      "PUNCH NFI"
     ],
     [
       "NUV",
@@ -640,7 +640,7 @@
     ],
     [
       "NFI-0",
-      "None"
+      "PUNCH NFI"
     ],
     [
       "PHOENIX",
@@ -804,15 +804,15 @@
     ],
     [
       "WFI-1",
-      "None"
+      "PUNCH WFI 1"
     ],
     [
       "WFI-2",
-      "None"
+      "PUNCH WFI 2"
     ],
     [
       "WFI-3",
-      "None"
+      "PUNCH WFI 3"
     ],
     [
       "WISPR",
@@ -1176,23 +1176,23 @@
     ],
     [
       "PUNCH-1",
-      "None"
+      "PUNCH WFI 1"
     ],
     [
       "PUNCH-2",
-      "None"
+      "PUNCH WFI 2"
     ],
     [
       "PUNCH-3",
-      "None"
+      "PUNCH WFI 3"
     ],
     [
       "PUNCH-4",
-      "None"
+      "PUNCH NFI"
     ],
     [
       "PUNCH-MOSAIC",
-      "None"
+      "PUNCH Mosaic"
     ],
     [
       "RHESSI",
